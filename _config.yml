@@ -1,4 +1,5 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: docs-semidrive/docs.semidrive
+# changed the master repository. Previous default value is "tomjoht/documentation-theme-jekyll"
 
 url: docs-semidrive.github.io
 baseurl: /docs.semidrive
@@ -42,7 +43,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: li.deng@semidrive.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
